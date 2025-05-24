@@ -31,7 +31,7 @@ celebs = [
     {"Shraddha Kapoor, Actor": 94200000},
     ...
 ]
-<pre> \`\`\` </pre>
+```
 ---
 
 💡 Why It Works Well:
